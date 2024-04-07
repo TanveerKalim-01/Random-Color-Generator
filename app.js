@@ -19,5 +19,4 @@ btn.addEventListener("click", function () {
     p.innerText = "This is your new color."
     div.append(p);
     div.style.backgroundColor = randomColor;
-    div.innetText
 })
